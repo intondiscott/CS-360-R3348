@@ -1,5 +1,5 @@
 <h1 align=center>📱CS-360-R3348:App project📱</h1>
-<div>
+<div align=center>
   <img src="https://github.com/intondiscott/CS-360-R3348/blob/master/Picture.png" alt="App login"/>
   <img src="https://github.com/intondiscott/CS-360-R3348/blob/master/Picture1.png"/>
 </div>
