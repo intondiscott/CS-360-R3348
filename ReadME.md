@@ -1,5 +1,8 @@
 <h1 align=center>📱CS-360-R3348:App project📱</h1>
-<p align=center><img src="https://github.com/intondiscott/CS-360-R3348/blob/master/Picture.png" alt="App login"/></p>
+<div>
+  <img src="https://github.com/intondiscott/CS-360-R3348/blob/master/Picture.png" alt="App login"/>
+  <img src="https://github.com/intondiscott/CS-360-R3348/blob/master/Picture1.png"/>
+</div>
 
 <h4>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?</h4>
 <p>The requirement of the app was to make a mobile app that can keep track of warehouse inventory. The need was to have a login database for the user and if they were not on the account they could create one. Once successfully logged in they can view and modify inventory.</p>
