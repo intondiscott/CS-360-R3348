@@ -1,5 +1,5 @@
 <h1 align=center>📱CS-360-R3348:App project📱</h1>
-![alt text](https://github.com/intondiscott/CS-360-R3348/Picture.png "picture")
+![alt text]([https://github.com/intondiscott/CS-360-R3348/Picture.png](https://github.com/intondiscott/CS-360-R3348/blob/master/Picture.png) "app picture")
 <h4>Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?</h4>
 <p>The requirement of the app was to make a mobile app that can keep track of warehouse inventory. The need was to have a login database for the user and if they were not on the account they could create one. Once successfully logged in they can view and modify inventory.</p>
 <h4>What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?</h4>
